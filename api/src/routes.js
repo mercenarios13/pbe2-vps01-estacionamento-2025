@@ -1,11 +1,11 @@
 const express = require('express');
-const veiculoRoutes = require('./veiculo'); // Certifique-se de que o caminho está correto
-const estadiaRoutes = require('./estadia'); // Certifique-se de que o caminho está correto
+const veiculoRoutes = require('./veiculo');
+const estadiaRoutes = require('./estadia');
 
 const routes = express.Router();
 
-routes.use('/veiculos', veiculoRoutes); // Define as rotas de veículos
-routes.use('/estadias', estadiaRoutes); // Define as rotas de estadias
+routes.use('/veiculos', veiculoRoutes);
+routes.use('/estadias', estadiaRoutes);
 
 routes.get('/', (req, res) => {
   return res.json({ titulo: 'Estacionamento ACME' });
