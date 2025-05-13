@@ -122,4 +122,4 @@ Certifique-se de que você tem as seguintes ferramentas instaladas no seu sistem
 Se o projeto estiver em um repositório Git, clone-o para o seu computador:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/mercenarios13/pbe2-vps01-estacionamento-2025.git>
