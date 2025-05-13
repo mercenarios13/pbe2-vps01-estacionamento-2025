@@ -27,7 +27,25 @@ Desenvolver as funcionalidades conforme requisitos
 - [CT005] Altere pelo menos duas estadias preenchendo a **saida** e verificando se calcula o **valorTotal**.
 
 ## Tecnologias
-- Vs Code
-- Insomnia
-- 
+Node.js
+
+Plataforma de execução para JavaScript no lado do servidor.
+Express.js
+
+Framework para criar APIs REST de forma rápida e eficiente.
+Prisma ORM
+
+ORM (Object-Relational Mapping) para interagir com o banco de dados de forma simples e eficiente.
+SQLite
+
+Banco de dados leve e embutido, usado para armazenar os dados do sistema.
+Insomnia
+
+Ferramenta para testar APIs REST e realizar os casos de teste.
+Visual Studio Code (VS Code)
+
+IDE utilizada para desenvolvimento do projeto.
+JavaScript
+
+Linguagem de programação usada para implementar a lógica do sistema.
 ## Passo a Passo de como executar a API
